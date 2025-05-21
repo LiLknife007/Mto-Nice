@@ -1,8 +1,8 @@
 
 streamlit
 pandas
-tensorflow
+tensorflow-cpu==2.12.0
 joblib
 requests
 scikit-learn
-
+python_version < 3.13
